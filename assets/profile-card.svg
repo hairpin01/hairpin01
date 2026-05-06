@@ -1,0 +1,229 @@
+<svg width="600" height="350" viewBox="0 0 600 350" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="titlegrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#000080"/>
+    <stop offset="100%" stop-color="#1084d0"/>
+  </linearGradient>
+</defs>
+
+<!-- Desktop -->
+<rect width="600" height="350" fill="#008080"/>
+
+<!-- Desktop icons -->
+<rect x="8" y="10" width="36" height="36" fill="#c0c0c0" rx="0"/>
+<text x="26" y="32" text-anchor="middle" font-size="20">🗂️</text>
+<text x="26" y="54" text-anchor="middle" font-family="Arial" font-size="9" fill="#ffffff">Repo</text>
+
+<!-- Main window fill -->
+<rect x="10" y="10" width="580" height="300" fill="#c0c0c0"/>
+<line x1="10" y1="10" x2="590" y2="10" stroke="#ffffff" stroke-width="2"/>
+<line x1="10" y1="10" x2="10" y2="310" stroke="#ffffff" stroke-width="2"/>
+<line x1="10" y1="310" x2="590" y2="310" stroke="#404040" stroke-width="2"/>
+<line x1="590" y1="10" x2="590" y2="310" stroke="#404040" stroke-width="2"/>
+<line x1="12" y1="12" x2="588" y2="12" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="12" y1="12" x2="12" y2="308" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="12" y1="308" x2="588" y2="308" stroke="#808080" stroke-width="1"/>
+<line x1="588" y1="12" x2="588" y2="308" stroke="#808080" stroke-width="1"/>
+
+<!-- Title bar -->
+<rect x="12" y="12" width="576" height="20" fill="url(#titlegrad)"/>
+<!-- Title icon (bee color block) -->
+<rect x="15" y="14" width="14" height="14" fill="#ffd700"/>
+<rect x="16" y="15" width="12" height="12" fill="#000000" rx="1"/>
+<text x="22" y="25" text-anchor="middle" font-family="Arial" font-size="10" fill="#ffd700" font-weight="bold">W</text>
+<!-- Title text -->
+<text x="34" y="26" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="bold">hairpin01 — File manager</text>
+<!-- Window buttons -->
+<rect x="534" y="13" width="16" height="16" fill="#c0c0c0"/>
+<line x1="534" y1="13" x2="550" y2="13" stroke="#ffffff" stroke-width="2"/>
+<line x1="534" y1="13" x2="534" y2="29" stroke="#ffffff" stroke-width="2"/>
+<line x1="534" y1="29" x2="550" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="550" y1="13" x2="550" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="536" y1="15" x2="548" y2="15" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="536" y1="15" x2="536" y2="27" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="536" y1="27" x2="548" y2="27" stroke="#808080" stroke-width="1"/>
+<line x1="548" y1="15" x2="548" y2="27" stroke="#808080" stroke-width="1"/>
+<text x="542" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#000000">_</text>
+<rect x="552" y="13" width="16" height="16" fill="#c0c0c0"/>
+<line x1="552" y1="13" x2="568" y2="13" stroke="#ffffff" stroke-width="2"/>
+<line x1="552" y1="13" x2="552" y2="29" stroke="#ffffff" stroke-width="2"/>
+<line x1="552" y1="29" x2="568" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="568" y1="13" x2="568" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="554" y1="15" x2="566" y2="15" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="554" y1="15" x2="554" y2="27" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="554" y1="27" x2="566" y2="27" stroke="#808080" stroke-width="1"/>
+<line x1="566" y1="15" x2="566" y2="27" stroke="#808080" stroke-width="1"/>
+<text x="560" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#000000">□</text>
+<rect x="570" y="13" width="16" height="16" fill="#c0c0c0"/>
+<line x1="570" y1="13" x2="586" y2="13" stroke="#ffffff" stroke-width="2"/>
+<line x1="570" y1="13" x2="570" y2="29" stroke="#ffffff" stroke-width="2"/>
+<line x1="570" y1="29" x2="586" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="586" y1="13" x2="586" y2="29" stroke="#404040" stroke-width="2"/>
+<line x1="572" y1="15" x2="584" y2="15" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="572" y1="15" x2="572" y2="27" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="572" y1="27" x2="584" y2="27" stroke="#808080" stroke-width="1"/>
+<line x1="584" y1="15" x2="584" y2="27" stroke="#808080" stroke-width="1"/>
+<text x="578" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#000000">✕</text>
+
+<!-- Menu bar -->
+<rect x="12" y="32" width="576" height="18" fill="#c0c0c0"/>
+<line x1="12" y1="50" x2="588" y2="50" stroke="#808080" stroke-width="1"/>
+<text x="20" y="45" font-family="Arial, sans-serif" font-size="12" fill="#000">Файл</text>
+<text x="62" y="45" font-family="Arial, sans-serif" font-size="12" fill="#000">Правка</text>
+<text x="116" y="45" font-family="Arial, sans-serif" font-size="12" fill="#000">Вид</text>
+<text x="150" y="45" font-family="Arial, sans-serif" font-size="12" fill="#000">Справка</text>
+
+<!-- ===== SIDEBAR ===== -->
+<rect x="14" y="54" width="172" height="252" fill="#c0c0c0"/>
+<line x1="14" y1="54" x2="186" y2="54" stroke="#ffffff" stroke-width="2"/>
+<line x1="14" y1="54" x2="14" y2="306" stroke="#ffffff" stroke-width="2"/>
+<line x1="14" y1="306" x2="186" y2="306" stroke="#404040" stroke-width="2"/>
+<line x1="186" y1="54" x2="186" y2="306" stroke="#404040" stroke-width="2"/>
+<line x1="16" y1="56" x2="184" y2="56" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="16" y1="56" x2="16" y2="304" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="16" y1="304" x2="184" y2="304" stroke="#808080" stroke-width="1"/>
+<line x1="184" y1="56" x2="184" y2="304" stroke="#808080" stroke-width="1"/>
+
+<!-- Avatar circle -->
+<circle cx="100" cy="106" r="38" fill="#000080"/>
+<circle cx="100" cy="106" r="36" fill="#0010a0"/>
+<text x="100" y="116" text-anchor="middle" font-size="36" font-family="Arial">🐝</text>
+
+<!-- Name -->
+<text x="100" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#000080">Шмелько</text>
+<text x="100" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#444444">Просто Шмелько</text>
+
+<!-- Separator -->
+<line x1="22" y1="186" x2="178" y2="186" stroke="#808080" stroke-width="1"/>
+<line x1="22" y1="187" x2="178" y2="187" stroke="#ffffff" stroke-width="1"/>
+
+<!-- About field label -->
+<text x="22" y="202" font-family="Arial, sans-serif" font-size="11" fill="#000080" font-weight="bold">О себе:</text>
+<!-- Sunken field -->
+<rect x="22" y="206" width="156" height="22" fill="#ffffff"/>
+<line x1="22" y1="206" x2="178" y2="206" stroke="#808080" stroke-width="2"/>
+<line x1="22" y1="206" x2="22" y2="228" stroke="#808080" stroke-width="2"/>
+<line x1="22" y1="228" x2="178" y2="228" stroke="#ffffff" stroke-width="2"/>
+<line x1="178" y1="206" x2="178" y2="228" stroke="#ffffff" stroke-width="2"/>
+<line x1="24" y1="208" x2="176" y2="208" stroke="#404040" stroke-width="1"/>
+<line x1="24" y1="208" x2="24" y2="226" stroke="#404040" stroke-width="1"/>
+<line x1="24" y1="226" x2="176" y2="226" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="176" y1="208" x2="176" y2="226" stroke="#dfdfdf" stroke-width="1"/>
+<text x="30" y="221" font-family="Arial, sans-serif" font-size="11" fill="#000">люблю писать всякое</text>
+
+<!-- Separator 2 -->
+<line x1="22" y1="236" x2="178" y2="236" stroke="#808080" stroke-width="1"/>
+<line x1="22" y1="237" x2="178" y2="237" stroke="#ffffff" stroke-width="1"/>
+
+<!-- Telegram button -->
+<rect x="24" y="246" width="152" height="26" fill="#c0c0c0"/>
+<line x1="24" y1="246" x2="176" y2="246" stroke="#ffffff" stroke-width="2"/>
+<line x1="24" y1="246" x2="24" y2="272" stroke="#ffffff" stroke-width="2"/>
+<line x1="24" y1="272" x2="176" y2="272" stroke="#404040" stroke-width="2"/>
+<line x1="176" y1="246" x2="176" y2="272" stroke="#404040" stroke-width="2"/>
+<line x1="26" y1="248" x2="174" y2="248" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="26" y1="248" x2="26" y2="270" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="26" y1="270" x2="174" y2="270" stroke="#808080" stroke-width="1"/>
+<line x1="174" y1="248" x2="174" y2="270" stroke="#808080" stroke-width="1"/>
+<text x="100" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">Telegram @Hairpin01</text>
+
+<!-- ===== STATUS PANEL ===== -->
+<rect x="192" y="54" width="394" height="102" fill="#c0c0c0"/>
+<line x1="192" y1="54" x2="586" y2="54" stroke="#ffffff" stroke-width="2"/>
+<line x1="192" y1="54" x2="192" y2="156" stroke="#ffffff" stroke-width="2"/>
+<line x1="192" y1="156" x2="586" y2="156" stroke="#404040" stroke-width="2"/>
+<line x1="586" y1="54" x2="586" y2="156" stroke="#404040" stroke-width="2"/>
+<line x1="194" y1="56" x2="584" y2="56" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="194" y1="56" x2="194" y2="154" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="194" y1="154" x2="584" y2="154" stroke="#808080" stroke-width="1"/>
+<line x1="584" y1="56" x2="584" y2="154" stroke="#808080" stroke-width="1"/>
+
+<text x="202" y="74" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#000080">📡 Сейчас</text>
+<line x1="200" y1="80" x2="578" y2="80" stroke="#808080" stroke-width="1"/>
+<line x1="200" y1="81" x2="578" y2="81" stroke="#ffffff" stroke-width="1"/>
+
+<!-- LED indicator -->
+<circle cx="210" cy="100" r="5" fill="#00c800"/>
+<circle cx="210" cy="100" r="4" fill="#00ff00" opacity="0.6"/>
+<text x="222" y="104" font-family="Arial, sans-serif" font-size="12" fill="#000"><tspan font-weight="bold">status:</tspan> бзззззз</text>
+
+<!-- Activity field -->
+<text x="202" y="126" font-family="Arial, sans-serif" font-size="11" fill="#000080" font-weight="bold">Активность:</text>
+<rect x="200" y="130" width="378" height="20" fill="#ffffff"/>
+<line x1="200" y1="130" x2="578" y2="130" stroke="#808080" stroke-width="2"/>
+<line x1="200" y1="130" x2="200" y2="150" stroke="#808080" stroke-width="2"/>
+<line x1="200" y1="150" x2="578" y2="150" stroke="#ffffff" stroke-width="2"/>
+<line x1="578" y1="130" x2="578" y2="150" stroke="#ffffff" stroke-width="2"/>
+<line x1="202" y1="132" x2="576" y2="132" stroke="#404040" stroke-width="1"/>
+<line x1="202" y1="132" x2="202" y2="148" stroke="#404040" stroke-width="1"/>
+<line x1="202" y1="148" x2="576" y2="148" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="576" y1="132" x2="576" y2="148" stroke="#dfdfdf" stroke-width="1"/>
+<text x="206" y="144" font-family="Arial, sans-serif" font-size="12" fill="#000">пишу мкуб, экспериментирую</text>
+
+<!-- ===== PROJECTS PANEL ===== -->
+<rect x="192" y="162" width="394" height="144" fill="#c0c0c0"/>
+<line x1="192" y1="162" x2="586" y2="162" stroke="#ffffff" stroke-width="2"/>
+<line x1="192" y1="162" x2="192" y2="306" stroke="#ffffff" stroke-width="2"/>
+<line x1="192" y1="306" x2="586" y2="306" stroke="#404040" stroke-width="2"/>
+<line x1="586" y1="162" x2="586" y2="306" stroke="#404040" stroke-width="2"/>
+<line x1="194" y1="164" x2="584" y2="164" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="194" y1="164" x2="194" y2="304" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="194" y1="304" x2="584" y2="304" stroke="#808080" stroke-width="1"/>
+<line x1="584" y1="164" x2="584" y2="304" stroke="#808080" stroke-width="1"/>
+
+<text x="202" y="182" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#000080">Repo:</text>
+<line x1="200" y1="188" x2="578" y2="188" stroke="#808080" stroke-width="1"/>
+<line x1="200" y1="189" x2="578" y2="189" stroke="#ffffff" stroke-width="1"/>
+
+<!-- Project items -->
+<text x="206" y="208" font-family="Arial, sans-serif" font-size="12" fill="#000">📁 hairpin01/MCUB-fork</text>
+<line x1="200" y1="214" x2="578" y2="214" stroke="#c0c0c0" stroke-width="1"/>
+<text x="206" y="230" font-family="Arial, sans-serif" font-size="12" fill="#000">📁 hairpin01/Telethon-MCUB</text>
+<line x1="200" y1="236" x2="578" y2="236" stroke="#c0c0c0" stroke-width="1"/>
+
+<!-- ===== TASKBAR ===== -->
+<rect x="0" y="318" width="600" height="32" fill="#c0c0c0"/>
+<line x1="0" y1="318" x2="600" y2="318" stroke="#ffffff" stroke-width="2"/>
+<line x1="0" y1="319" x2="600" y2="319" stroke="#dfdfdf" stroke-width="1"/>
+
+<!-- Start button -->
+<rect x="4" y="322" width="64" height="24" fill="#c0c0c0"/>
+<line x1="4" y1="322" x2="68" y2="322" stroke="#ffffff" stroke-width="2"/>
+<line x1="4" y1="322" x2="4" y2="346" stroke="#ffffff" stroke-width="2"/>
+<line x1="4" y1="346" x2="68" y2="346" stroke="#404040" stroke-width="2"/>
+<line x1="68" y1="322" x2="68" y2="346" stroke="#404040" stroke-width="2"/>
+<line x1="6" y1="324" x2="66" y2="324" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="6" y1="324" x2="6" y2="344" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="6" y1="344" x2="66" y2="344" stroke="#808080" stroke-width="1"/>
+<line x1="66" y1="324" x2="66" y2="344" stroke="#808080" stroke-width="1"/>
+<text x="36" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#000" font-weight="bold">🪟 Super</text>
+
+<!-- Separator -->
+<line x1="72" y1="322" x2="72" y2="344" stroke="#808080" stroke-width="1"/>
+<line x1="73" y1="322" x2="73" y2="344" stroke="#ffffff" stroke-width="1"/>
+
+<!-- Active window in taskbar -->
+<rect x="76" y="322" width="200" height="24" fill="#c0c0c0"/>
+<line x1="76" y1="322" x2="276" y2="322" stroke="#808080" stroke-width="2"/>
+<line x1="76" y1="322" x2="76" y2="346" stroke="#808080" stroke-width="2"/>
+<line x1="76" y1="346" x2="276" y2="346" stroke="#ffffff" stroke-width="2"/>
+<line x1="276" y1="322" x2="276" y2="346" stroke="#ffffff" stroke-width="2"/>
+<line x1="78" y1="324" x2="274" y2="324" stroke="#404040" stroke-width="1"/>
+<line x1="78" y1="324" x2="78" y2="344" stroke="#404040" stroke-width="1"/>
+<line x1="78" y1="344" x2="274" y2="344" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="274" y1="324" x2="274" y2="344" stroke="#dfdfdf" stroke-width="1"/>
+<text x="86" y="339" font-family="Arial, sans-serif" font-size="11" fill="#000">Hairpin.bin</text>
+
+<!-- Clock -->
+<rect x="528" y="322" width="68" height="24" fill="#c0c0c0"/>
+<line x1="528" y1="322" x2="596" y2="322" stroke="#808080" stroke-width="2"/>
+<line x1="528" y1="322" x2="528" y2="346" stroke="#808080" stroke-width="2"/>
+<line x1="528" y1="346" x2="596" y2="346" stroke="#ffffff" stroke-width="2"/>
+<line x1="596" y1="322" x2="596" y2="346" stroke="#ffffff" stroke-width="2"/>
+<line x1="530" y1="324" x2="594" y2="324" stroke="#404040" stroke-width="1"/>
+<line x1="530" y1="324" x2="530" y2="344" stroke="#404040" stroke-width="1"/>
+<line x1="530" y1="344" x2="594" y2="344" stroke="#dfdfdf" stroke-width="1"/>
+<line x1="594" y1="324" x2="594" y2="344" stroke="#dfdfdf" stroke-width="1"/>
+<text x="562" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">13:37</text>
+
+</svg>
