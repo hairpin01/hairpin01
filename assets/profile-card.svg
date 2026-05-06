@@ -109,7 +109,7 @@
 <line x1="24" y1="208" x2="24" y2="226" stroke="#404040" stroke-width="1"/>
 <line x1="24" y1="226" x2="176" y2="226" stroke="#dfdfdf" stroke-width="1"/>
 <line x1="176" y1="208" x2="176" y2="226" stroke="#dfdfdf" stroke-width="1"/>
-<text x="30" y="221" font-family="Arial, sans-serif" font-size="11" fill="#000">люблю писать всякое</text>
+<text x="30" y="221" font-family="Arial, sans-serif" font-size="11" fill="#000">люблю писать всякое в файликах</text>
 
 <!-- Separator 2 -->
 <line x1="22" y1="236" x2="178" y2="236" stroke="#808080" stroke-width="1"/>
@@ -125,7 +125,7 @@
 <line x1="26" y1="248" x2="26" y2="270" stroke="#dfdfdf" stroke-width="1"/>
 <line x1="26" y1="270" x2="174" y2="270" stroke="#808080" stroke-width="1"/>
 <line x1="174" y1="248" x2="174" y2="270" stroke="#808080" stroke-width="1"/>
-<text x="100" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">Telegram @Hairpin01</text>
+<text x="100" y="263" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">Telegram @Hairpin00</text>
 
 <!-- ===== STATUS PANEL ===== -->
 <rect x="192" y="54" width="394" height="102" fill="#c0c0c0"/>
@@ -212,7 +212,7 @@
 <line x1="78" y1="324" x2="78" y2="344" stroke="#404040" stroke-width="1"/>
 <line x1="78" y1="344" x2="274" y2="344" stroke="#dfdfdf" stroke-width="1"/>
 <line x1="274" y1="324" x2="274" y2="344" stroke="#dfdfdf" stroke-width="1"/>
-<text x="86" y="339" font-family="Arial, sans-serif" font-size="11" fill="#000">Hairpin.bin</text>
+<text x="86" y="339" font-family="Arial, sans-serif" font-size="11" fill="#000">File manager</text>
 
 <!-- Clock -->
 <rect x="528" y="322" width="68" height="24" fill="#c0c0c0"/>
@@ -224,6 +224,6 @@
 <line x1="530" y1="324" x2="530" y2="344" stroke="#404040" stroke-width="1"/>
 <line x1="530" y1="344" x2="594" y2="344" stroke="#dfdfdf" stroke-width="1"/>
 <line x1="594" y1="324" x2="594" y2="344" stroke="#dfdfdf" stroke-width="1"/>
-<text x="562" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">13:37</text>
+<text x="562" y="339" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#000">2:31</text>
 
 </svg>
